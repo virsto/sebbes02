@@ -6,9 +6,9 @@ layouts_dir:     ./_layouts
 data_dir: ./_data
 title: "Sebbes Story"
 description: "First web-site for Sebbe"
-baseurl: "/sebbe06"
+baseurl: "/sebbe02"
 #baseurl: ""
-url: "http://virsto.github.io/sebbe06"
+url: "http://virsto.github.io/sebbe02"
 timezone: Europe/Stockholm
 # collections: null
 
